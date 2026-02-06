@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ハートな胸の内♡",
+  "base_artist": "超ときめき♡宣伝部",
+  "createdAt": "2026-02-06T06:39:35.680447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハートな胸の内♡",
+      "artist": "Cho Tokimeki Sendenbu",
+      "has_synced": true,
+      "path": "select/01_ハートな胸の内♡_Cho_Tokimeki_Sendenbu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートな胸の内♡",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": false,
+      "path": "select/pl_01_ハートな胸の内♡_超ときめき♡宣伝部.txt"
+    }
+  ]
+}
